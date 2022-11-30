@@ -1,0 +1,12 @@
+/* Global styles */
+
+/* Imports */
+@import './index.css';
+
+/* Fonts */
+
+
+/* TailwindCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
